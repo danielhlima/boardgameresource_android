@@ -1,4 +1,4 @@
 package br.com.boardgameresource.domain.usecases;
 
-public class LoadGame {
+public class LoadGameUseCase {
 }
